@@ -1,0 +1,6 @@
+Environment,Server,Name,Root
+TST,QUTSTTEM01,Template Test,C:\root
+UAT,QUUATTEM01,Template Uat,C:\root
+STG,QUSTGTEM01,Template Staging,C:\root
+TRN,QUTRNTEM01,Template Training,C:\root
+PRD,QUPRDTEM01,Template Live,C:\root
